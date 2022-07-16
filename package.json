@@ -1,6 +1,6 @@
 {
   "name": "yahoo-finserve",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "It is a package which fetches data of a specific instrument or indices.",
   "main": "index.js",
   "scripts": {
