@@ -1,0 +1,23 @@
+{
+  "name": "yahoo-finserv",
+  "version": "1.0.0",
+  "description": "It is a package which fetches data of a specific instrument or indices.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Saurabh Jaiswal",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "node-fetch": "^3.2.8"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phamleduy04/yahoo-stock-api.git"
+  },
+  "keywords": [
+    "yahoo-finance",
+    "stock-api"
+  ]
+}
