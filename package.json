@@ -14,10 +14,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/phamleduy04/yahoo-stock-api.git"
+    "url": "git+https://github.com/SaurabhJais/yahoo-finserv.git"
   },
   "keywords": [
     "yahoo-finance",
     "stock-api"
-  ]
+  ],
+  "homepage": "https://github.com/SaurabhJais/yahoo-finserv"
 }
